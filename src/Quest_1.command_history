@@ -1,0 +1,4 @@
+ssh-keygen -t rsa
+cat /home/user/.ssh/id_rsa.pub
+touch Quest_0.command_history
+touch Quest_1.command_history
